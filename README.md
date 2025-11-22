@@ -4,11 +4,11 @@
 <br/>
 
 ## 👨‍💻 About Me
-I am a Backend Software Engineer specializing in architecting scalable **Multi-Tenant SaaS platforms** using **.NET 8**. [cite_start]I have a proven track record in optimizing system performance using **Hybrid Data Access** (EF Core & Dapper) and implementing **Event-Driven Architectures**[cite: 5, 6, 7, 16]. [cite_start]My expertise extends to integrating AI solutions and designing robust security models (RBAC)[cite: 24, 36, 184].
+I am a Backend Software Engineer specializing in architecting scalable **Multi-Tenant SaaS platforms** using **.NET 8**. I have a proven track record in optimizing system performance using **Hybrid Data Access** (EF Core & Dapper) and implementing **Event-Driven Architectures**[cite: 5, 6, 7, 16]. [cite_start]My expertise extends to integrating AI solutions and designing robust security models (RBAC).
 
 <br/>
-- [cite_start]💬 Ask me about **Clean Architecture, DDD, CQRS (MediatR), Event-Driven Design, Redis Caching, and PostgreSQL Optimization.** [cite: 6, 10, 11]
-- [cite_start]📫 How to reach me **melmonyar@gmail.com** [cite: 3]
+💬 Ask me about **Clean Architecture, DDD, CQRS (MediatR), Event-Driven Design, Redis Caching, and PostgreSQL Optimization.** 
+📫 How to reach me **melmonyar@gmail.com**
 
 <br/>
 
