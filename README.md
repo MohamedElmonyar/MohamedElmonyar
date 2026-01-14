@@ -149,7 +149,6 @@ const mohamed = {
 - ✅ Event-Driven Architecture
 - ✅ Real-Time Communication (SignalR)
 - ✅ Webhook Processing
-- ✅ Microservices Integration
 
 **Key Features:**
 - ✅ Retell AI Voice Integration
@@ -166,8 +165,6 @@ const mohamed = {
 - Cloud: AWS SES (Email Service)
 - Frontend: Tailwind CSS, Razor Pages
 - DevOps: Docker, Docker Compose
-
-**[📺 Watch Full Demo](https://www.linkedin.com/posts/mohamed-elmonyar_csharp-sqlserver-softwaredevelopment-activity-7351874908244598784-1Ye6)**
 
 </td>
 </tr>
@@ -302,9 +299,9 @@ const mohamed = {
 
 | Area | Skills |
 |:-----|:-------|
-| **Languages** | C# 12 • PL/pgSQL • T-SQL • C++ |
-| **Frameworks** | .NET 8 • ASP.NET Core • Entity Framework Core • SignalR |
-| **Data Access** | EF Core (Writes) • Dapper (High-Performance Reads) • ADO.NET (Legacy) |
+| **Languages** | C# • PL/pgSQL • T-SQL • C++ |
+| **Frameworks** | .NET • ASP.NET Core • Entity Framework Core • SignalR |
+| **Data Access** | EF Core (Writes) • Dapper Or ADO.NET (High-Performance Reads) • ADO.NET (Legacy) |
 | **APIs** | RESTful APIs • Webhook Processing • API Security |
 
 ### Database Engineering
