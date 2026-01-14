@@ -23,7 +23,7 @@ const mohamed = {
     currentFocus: "Multi-Tenant SaaS & Clean Architecture",
     
     skills: {
-        languages: ["C#", "C++", "PL/pgSQL", "T-SQL", "JavaScript"],
+        languages: ["C#", "C++", "PL/pgSQL", "T-SQL"],
         backend: ["ASP.NET Core", ".NET", "Clean Architecture", "DDD", "CQRS","RestFul API"],
         dataAccess: ["Entity Framework Core", "Dapper", "ADO.NET"],
         databases: ["PostgreSQL", "SQL Server", "Redis"],
