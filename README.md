@@ -17,7 +17,7 @@
 ```javascript
 const mohamed = {
     role: "Backend Developer",
-    specialization: ".NET & Enterprise Architecture",
+    specialization: ".NET & Enterprise-Scale Architecture",
     location: "Egypt 🇪🇬",
     education: "Computer Science",
     currentFocus: "Multi-Tenant SaaS & Clean Architecture",
@@ -43,7 +43,7 @@ const mohamed = {
         "Hybrid Data Access Strategies"
     ],
     
-    funFact: "I started with C++ console games and evolved to architecting enterprise-grade SaaS platforms!"
+    funFact: "I started with C++ console games and evolved to building enterprise-grade SaaS platforms!"
 };
 ```
 
@@ -270,7 +270,7 @@ const mohamed = {
 ## 🎯 What I Do
 
 ```
-🔹 Architect Multi-Tenant SaaS Platforms with Clean Architecture
+🔹 Build Multi-tenant SaaS platforms using clean architecture
 🔹 Build Event-Driven Systems with CQRS & MediatR
 🔹 Design High-Performance Database Solutions (PostgreSQL & SQL Server)
 🔹 Implement Hybrid Data Access Strategies (EF Core + Dapper + ADO.NET)
@@ -291,7 +291,7 @@ const mohamed = {
 
 | Area | Skills |
 |:-----|:-------|
-| **Architecture Patterns** | Clean Architecture (Onion) • DDD • CQRS • Event-Driven • Microservices • Repository Pattern |
+| **Architecture Patterns** | Clean Architecture (Onion) • DDD • CQRS • Event-Driven • Microservices concepts • Repository Pattern |
 | **Design Principles** | SOLID • Separation of Concerns • Dependency Injection • Inversion of Control |
 | **Multi-Tenancy** | Row-Level Security • Tenant Isolation • Shared Schema • SaaS Architecture |
 
@@ -350,7 +350,7 @@ const mohamed = {
 graph LR
     A["💎 C++ Foundations<br/>(Memory Management &<br/>Custom Data Structures)"] --> B["🏛️ Desktop Systems<br/>(3-Tier Architecture<br/>ADO.NET & T-SQL)"]
     B --> C["🌐 Modern .NET<br/>(Clean Architecture<br/>DDD & RESTful APIs)"]
-    C --> D["🚀 Enterprise Architect<br/>(Multi-Tenant SaaS<br/>CQRS & Event-Driven)"]
+    C --> D["🚀 Enterprise-Scale Backend Engineer<br/>(Multi-Tenant SaaS<br/>CQRS & Event-Driven)"]
     D --> E["⚡ Advanced Engineering<br/>(Hybrid Data Access<br/>Distributed Systems)"]
     
     style A fill:#2d3436,stroke:#fff,color:#fff
@@ -379,7 +379,7 @@ graph LR
 ### Advanced Level
 ✅ **Dapper** - High-performance micro-ORM  
 ✅ **Domain-Driven Design (DDD)** - Domain modeling  
-✅ **Event-Driven Architecture** - Messaging & events  
+✅ **Event-driven patterns** - Messaging & events 
 ✅ **Redis & FusionCache** - Distributed caching  
 ✅ **Docker** - Containerization & orchestration  
 ✅ **xUnit & Testcontainers** - Integration testing  
