@@ -260,7 +260,7 @@ const mohamed = {
 | **Projects Completed** | 7+ | Production-ready enterprise systems |
 | **Domain Entities (ERP)** | 80+ | Complex business domain modeling |
 | **Database Tables (ERP)** | 90 | Comprehensive data architecture |
-| **Stored Functions (ERP)** | 63 | Advanced PL/pgSQL programming |
+| **Stored Functions (ERP)** | 63+ | Advanced PL/pgSQL programming |
 | **Database Indexes (ERP)** | 183 | Strategic performance optimization |
 | **Stored Procedures (DVLD)** | 50+ | T-SQL business logic implementation |
 | **C++ Classes (Bank)** | 39+ | Advanced OOP architecture |
@@ -373,10 +373,10 @@ graph LR
 
 ### Expert Level
 ✅ **C# & .NET** - Full-stack backend development  
-✅ **Clean Architecture** - Onion Pattern implementation  
+✅ **Clean Architecture** - (Onion-style layering, dependency inversion, domain-centric design)  
 ✅ **PostgreSQL** - Advanced PL/pgSQL & performance tuning  
 ✅ **Multi-Tenant SaaS** - Complete isolation & security  
-✅ **CQRS & MediatR** - Command/Query separation  
+✅ **CQRS & MediatR** - Command/Query separation | Events
 ✅ **Entity Framework Core** - Code-first & migrations  
 
 ### Advanced Level
