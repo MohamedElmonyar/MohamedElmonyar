@@ -60,7 +60,7 @@ const mohamed = {
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Frameworks & Architecture
-![.NET 10](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-orange?style=for-the-badge)
@@ -106,7 +106,7 @@ const mohamed = {
 ### 🏢 ERP Engine - Multi-Tenant SaaS
 **Enterprise Resource Planning System**
 
-![.NET 10](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square)
+![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-7.2-DC382D?style=flat-square)
 
