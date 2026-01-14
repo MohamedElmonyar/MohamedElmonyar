@@ -254,7 +254,7 @@ const mohamed = {
 
 | 📊 Metric | 🔢 Value | 📝 Description |
 |:----------|:---------|:---------------|
-| **Projects Completed** | 7+ | Production-ready enterprise systems |
+| **Projects Completed** | 7+ | Production-ready |
 | **Domain Entities (ERP)** | 80+ | Complex business domain modeling |
 | **Database Tables (ERP)** | 90 | Comprehensive data architecture |
 | **Stored Functions (ERP)** | 63+ | Advanced PL/pgSQL programming |
