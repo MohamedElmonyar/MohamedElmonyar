@@ -284,7 +284,7 @@ const mohamed = {
 |:-----|:-------|
 | **Languages** | C# • PL/pgSQL • T-SQL • C++ |
 | **Frameworks** | .NET • ASP.NET Core • Entity Framework Core • SignalR |
-| **Data Access** | EF Core (Writes) • Dapper Or ADO.NET (High-Performance Reads) • ADO.NET (Legacy) |
+| **Data Access** | EF Core (Writes) • Dapper (High-Performance Reads) • ADO.NET (Legacy) |
 | **APIs** | RESTful APIs • Webhook Processing • API Security |
 
 ### Database Engineering
