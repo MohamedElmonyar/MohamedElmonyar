@@ -60,7 +60,7 @@ const mohamed = {
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Frameworks & Architecture
-![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-orange?style=for-the-badge)
@@ -113,7 +113,7 @@ const mohamed = {
 **Architecture & Patterns:**
 - ✅ Clean Architecture (Onion Pattern)
 - ✅ Domain-Driven Design (DDD)
-- ✅ CQRS with MediatR
+- ✅ MediatR For Events
 - ✅ Event-Driven Architecture
 - ✅ Repository Pattern
 
@@ -229,23 +229,6 @@ const mohamed = {
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedElmonyar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElmonyar&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="49%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElmonyar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1" width="40%" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🏆 Technical Achievements & Metrics
 
 <div align="center">
@@ -308,7 +291,7 @@ const mohamed = {
 
 | Area | Skills |
 |:-----|:-------|
-| **Databases** | PostgreSQL 17 • SQL Server 2019 • Redis |
+| **Databases** | PostgreSQL • SQL Server • Redis |
 | **Advanced Features** | Stored Functions • Triggers • Views • Computed Columns • Full-Text Search |
 | **Performance** | Strategic Indexing (B-tree, GIN, Partial) • Query Optimization • Partitioning |
 | **Patterns** | EAV • Party Pattern • Hierarchical Data • Soft Delete • Audit Trail |
