@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Elmonaier;Backend+Developer+%7C+.NET+Specialist;Building+Scalable+Enterprise+Systems;Clean+Architecture+Enthusiast;Multi-Tenant+SaaS+Platform+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Elmonier;Backend+Developer+%7C+.NET+Specialist;Building+Scalable+Enterprise+Systems;Clean+Architecture+Enthusiast;Multi-Tenant+SaaS+Platform+Developer" alt="Typing SVG" /></a>
 
   <!-- Profile Views Counter -->
   <br/>
